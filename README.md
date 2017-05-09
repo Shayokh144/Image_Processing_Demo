@@ -10,7 +10,8 @@ vii)Erosion
 viii)Dilation  
 ix)opening  
 x)closing  
-xi)Boundary detection operatinos are done without help of library function.
+xi)Boundary detection 
+operatinos are done without help of library function.
 
 Language: OpenCV, cpp
 Tool: Visual Studio
