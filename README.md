@@ -14,5 +14,5 @@ This project is about some basic image processing tasks like filtering, erosion,
 11. Boundary detection 
 operatinos are done without help of library function.
 
-Language: OpenCV, cpp
+Language: OpenCV, cpp\n 
 Tool: Visual Studio
